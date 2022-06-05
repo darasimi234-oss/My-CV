@@ -1,0 +1,21 @@
+body{
+    background-color: #E7F7F4;
+   font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: white;
+}
+h2{
+    color: red;
+}
+h3{
+    color: red;
+}
+.DARA{
+    border-radius: 50%;
+   
+}
+#topmost{
+    color: white;
+    background-color: red;
+}
